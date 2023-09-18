@@ -1,0 +1,1 @@
+enum TipoEndereco {comercial, residencial}

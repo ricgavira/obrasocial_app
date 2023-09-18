@@ -1,0 +1,1 @@
+enum Raca { branco, negro, asiatico, indigena, pardo, amarelo, outro }
